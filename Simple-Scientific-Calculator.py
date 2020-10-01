@@ -10,7 +10,7 @@ btn_params = {
     'pady': 1,
     'bd': 4,
     'fg': 'white',
-    'bg': '#666666',
+    'bg': '#666600',
     'font': ('arial', 18),
     'width': 2,
     'height': 2,
