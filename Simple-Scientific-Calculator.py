@@ -6,16 +6,16 @@ convert_constant = 1
 inverse_convert_constant = 1
 
 btn_params = {
-    'padx': 16,
+     'padx': 16,
     'pady': 1,
     'bd': 4,
-    'fg': 'white',
-    'bg': '#666600',
+    'fg': 'black',
+    'bg': '#111111',
     'font': ('arial', 18),
     'width': 2,
     'height': 2,
     'relief': 'flat',
-    'activebackground': "#666666"
+    'activebackground': "#666111"
 }
 
 
